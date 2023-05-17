@@ -1,0 +1,37 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(38, 25, 2);
+}
+.wrapper {
+    width: auto;
+    margin: auto;
+}
+img {
+    max-width: 150px;
+    height: auto;
+    float: left;
+    padding-right: 20px;
+}
+    
+h1 {
+    color: azure;
+    background-color: rgb(2, 57, 2);
+    padding: 20px;
+}
+
+p {
+    color: azure;
+}
+nav {
+    background-color:rgb(2, 57, 2) ;
+    color: azure;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+h3 {
+    font-size: 1.15rem;
+}
